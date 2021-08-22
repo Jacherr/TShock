@@ -48,6 +48,7 @@
 | Copper Ore Tier             | ushort |
 | Iron Ore Tier               | ushort |
 | Silver Ore Tier             | ushort |
+| Gold Ore Tier               | ushort |
 | Cobalt Ore Tier             | ushort |
 | Mythril Ore Tier            | ushort |
 | Adamantite Ore Tier         | ushort |
